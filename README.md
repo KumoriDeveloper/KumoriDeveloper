@@ -76,21 +76,25 @@ const developer = {
 
 ---
 
-## 🏆 GitHub Трофеи
+## 📈 Activity Graph
 
 <div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=KumoriDeveloper&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KumoriDeveloper&bg_color=0d1117&color=6c63ff&line=6c63ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Snake
 
 <div align="center">
-  
-![Snake animation](https://github.com/KumoriDeveloper/KumoriDeveloper/blob/output/github-contribution-grid-snake-dark.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KumoriDeveloper/KumoriDeveloper/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/KumoriDeveloper/KumoriDeveloper/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/KumoriDeveloper/KumoriDeveloper/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
